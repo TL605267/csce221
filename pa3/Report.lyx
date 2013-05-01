@@ -1,0 +1,1738 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\headheight 0in
+\headsep 0in
+\footskip 0in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+CSCE 221 Cover Page
+\begin_inset Newline newline
+\end_inset
+
+ Programming Assignment #3
+\end_layout
+
+\begin_layout Author
+First Name: 
+\bar under
+Devin
+\bar default
+ Last Name: 
+\bar under
+Tuchsen
+\bar default
+ UIN: 
+\bar under
+121000270
+\end_layout
+
+\begin_layout Date
+User Name: 
+\bar under
+devint1
+\bar default
+ E-mail address: 
+\bar under
+devint1@tamu.edu
+\bar default
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+Please list all sources in the table below including web pages which you
+ used to solve or implement the current homework.
+ If you fail to cite sources you can get a lower number of points or even
+ zero, read more in the Aggie Honor System Office 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://aggiehonor.tamu.edu/"
+
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Type of sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+People
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jonathan Willing
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Chris Lenart
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Web pages (provide URL) 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+https://piazza.com/class#spring2013/csce221/
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+cplusplus.com
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+http://courses.cs.tamu.edu/teresa/csce221/csce221-index.html
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+stackoverflow.com
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Printed material
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Other Sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Date
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+I certify that I have listed all the sources that I used to develop the
+ solutions/code to the submitted work.
+\end_layout
+
+\begin_layout Quotation
+“
+\emph on
+On my honor as an Aggie, I have neither given nor received any unauthorized
+ help on this academic work.
+\emph default
+” 
+\end_layout
+
+\begin_layout Date
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Your Name (signature)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+Assignment 3 Report
+\end_layout
+
+\begin_layout Paragraph
+Program Description
+\end_layout
+
+\begin_layout Standard
+This project contains a number of program used to test a number of different
+ data structures: linked list, linked stack, and linked queue.
+ Each of these data structures have their own program for testing, but they
+ are all implemented in the 
+\begin_inset Quotes eld
+\end_inset
+
+reverse
+\begin_inset Quotes erd
+\end_inset
+
+ program.
+ This program uses a linked queue and a linked stack to reverse the lines
+ in a given 
+\begin_inset Quotes eld
+\end_inset
+
+input.txt
+\begin_inset Quotes erd
+\end_inset
+
+ file.
+\end_layout
+
+\begin_layout Paragraph
+Purpose of the Assignment
+\end_layout
+
+\begin_layout Standard
+The purpose of this assignment was to explore a number of data structures
+ discussed in class, namely: linked list, linked stack, and linked queue.
+ Implementing the various data structures served as a reinforcement of their
+ functionality, and the testing involved in the various programs served
+ as debugging and testing practice.
+\end_layout
+
+\begin_layout Paragraph
+Data Structures Description
+\end_layout
+
+\begin_layout Standard
+A number of data structures were implemented in this assignment:
+\end_layout
+
+\begin_layout Subparagraph
+LinkedList
+\end_layout
+
+\begin_layout Standard
+This data structure consists of two pointers to 
+\family typewriter
+ListNode
+\family default
+: 
+\family typewriter
+head
+\family default
+ and 
+\family typewriter
+tail
+\family default
+.
+ Each 
+\family typewriter
+ListNode
+\family default
+ contains two other members: 
+\family typewriter
+obj
+\family default
+, which is a string object used to store data; and 
+\family typewriter
+next
+\family default
+, a pointer to another 
+\family typewriter
+ListNode
+\family default
+.
+ 
+\family typewriter
+head 
+\family default
+serves as the first element in the linked list, while 
+\family typewriter
+tail
+\family default
+ serves as the last element in the linked list.
+ This forms a chain of elements, each node having a link to the next node.
+\end_layout
+
+\begin_layout Subparagraph
+LinkedStack
+\end_layout
+
+\begin_layout Standard
+This data structure uses a linked list and forces LIFO behavior by limiting
+ operations to pop, which removes the last element and returns it; top,
+ which returns the first element; and push, which places an element onto
+ the stack.
+\end_layout
+
+\begin_layout Subparagraph
+LinkedQueue
+\end_layout
+
+\begin_layout Standard
+This data structure uses a linked list and forces FIFO behavior by limiting
+ operations to dequeue, which removes the first element and returns it;
+ enqueue, which places an element at the end of the list; and first, which
+ returns the first element.
+\end_layout
+
+\begin_layout Paragraph
+Algorithm Description
+\end_layout
+
+\begin_layout Standard
+The main algorithms in this assignment were in the linked list implementation.
+ In the copy constructor, new memory is recursively allocated for each node
+ while assigning it a value in a given linked list node, thus creating a
+ copy of the given linked list.
+ 
+\family typewriter
+size
+\family default
+ iterates over each node in the list and returns a count of all nodes, and
+ is 
+\begin_inset Formula $O(n)$
+\end_inset
+
+.
+ 
+\family typewriter
+insertFirst
+\family default
+ and 
+\family typewriter
+insertLast
+\family default
+ add elements to the list, both of which are 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+ 
+\family typewriter
+removeFirst
+\family default
+ removes elements from the beginning of the list, and is also 
+\begin_inset Formula $O(1)$
+\end_inset
+
+.
+ 
+\family typewriter
+removeAll
+\family default
+ and the overloaded 
+\family typewriter
+<<
+\family default
+ operator are both 
+\begin_inset Formula $O(n)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Paragraph
+Program Organization and Description of Classes
+\end_layout
+
+\begin_layout Standard
+There are three main classes in this assignment: 
+\family typewriter
+linkedList
+\family default
+, 
+\family typewriter
+linkedStack
+\family default
+, and 
+\family typewriter
+linkedQueue
+\family default
+.
+ Each of these represent a data structure discussed in class.
+ There are also files with these same names ending in 
+\begin_inset Quotes eld
+\end_inset
+
+main
+\begin_inset Quotes erd
+\end_inset
+
+ that perform the testing of the program.
+ The class 
+\family typewriter
+listNode
+\family default
+ defined in LinkedList.h represents a single node in a linked list.
+ There are also some other exception classes defined in RuntimeException.h
+ and overridden in the different data structure classes.
+\end_layout
+
+\begin_layout Paragraph
+How to Compile and Run
+\end_layout
+
+\begin_layout Enumerate
+In a Unix terminal, change the current directory by typing 
+\family typewriter
+cd SOURCE_DIR
+\family default
+, where 
+\family typewriter
+SOURCE_DIR
+\family default
+ is the path to the source directory.
+\end_layout
+
+\begin_layout Enumerate
+Type 
+\family typewriter
+make COMMAND
+\family default
+, where 
+\family typewriter
+COMMAND
+\family default
+ can be any of the following:
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\family typewriter
+test_all
+\family default
+: Compiles all sources.
+\begin_inset Newline newline
+\end_inset
+
+
+\family typewriter
+linkedlist
+\family default
+: Compiles the linked list test program.
+\begin_inset Newline newline
+\end_inset
+
+
+\family typewriter
+linkedstack
+\family default
+: Compiles the linked stack test program.
+\begin_inset Newline newline
+\end_inset
+
+
+\family typewriter
+linkedqueue
+\family default
+: Compiles the linked queue test program.
+\begin_inset Newline newline
+\end_inset
+
+
+\family typewriter
+reverse
+\family default
+: Compiles the reverse program.
+\begin_inset Newline newline
+\end_inset
+
+
+\family typewriter
+clean
+\family default
+: Remove all binaries and debugging symbols.
+\begin_inset Newline newline
+\end_inset
+
+NOTE: Omitting 
+\family typewriter
+COMMAND
+\family default
+ will default to 
+\family typewriter
+reverse
+\family default
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Run the executable by typing 
+\family typewriter
+./EXECUTABLE
+\family default
+, where 
+\family typewriter
+EXECUTABLE
+\family default
+ can be 
+\family typewriter
+linkedlist
+\family default
+, 
+\family typewriter
+linkedstack
+\family default
+, 
+\family typewriter
+linkedqueue
+\family default
+, or 
+\family typewriter
+reverse
+\family default
+.
+\end_layout
+
+\begin_layout Enumerate
+For the reverse program, the file 
+\begin_inset Quotes eld
+\end_inset
+
+input.txt
+\begin_inset Quotes erd
+\end_inset
+
+ may be changed.
+\end_layout
+
+\begin_layout Paragraph*
+Input/Output Specifications
+\end_layout
+
+\begin_layout Standard
+For all programs but reverse, the output is pre-specified and there is no
+ user input.
+ For the file 
+\begin_inset Quotes eld
+\end_inset
+
+input.txt,
+\begin_inset Quotes erd
+\end_inset
+
+ the string elements are expected to be separated by a newline.
+\end_layout
+
+\begin_layout Paragraph
+Logical Exceptions
+\end_layout
+
+\begin_layout Standard
+In the event that an element is attempted to be removed from an empty list,
+ an exception will be called.
+ The same will happen if 
+\family typewriter
+pop
+\family default
+, 
+\family typewriter
+top
+\family default
+, 
+\family typewriter
+first
+\family default
+, or 
+\family typewriter
+dequeue
+\family default
+ are called on an empty list.
+ There are no other known scenarios that will cause exceptions or crashes.
+\end_layout
+
+\begin_layout Paragraph
+C++ Object Oriented Features
+\end_layout
+
+\begin_layout Standard
+There are separate classes for each of the three data structures, as well
+ as linked list nodes and exceptions.
+ Inheritance occurs in the data structure classes when 
+\family typewriter
+RuntimeException
+\family default
+ is overridden.
+\end_layout
+
+\begin_layout Paragraph
+Tests
+\end_layout
+
+\begin_layout Standard
+The following are output from these programs:
+\end_layout
+
+\begin_layout Subparagraph
+linkedlist
+\end_layout
+
+\begin_layout LyX-Code
+ll = {}
+\begin_inset Newline newline
+\end_inset
+
+length of the list = 0
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+After inserting 5 elements to ll, ll = {OOO RRR AAA GGG EEE}
+\begin_inset Newline newline
+\end_inset
+
+length of the list = 5
+\begin_inset Newline newline
+\end_inset
+
+first element = OOO
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+Assigning ll to ll_copy, ll_copy = {EEE}
+\begin_inset Newline newline
+\end_inset
+
+length of the list = 1
+\begin_inset Newline newline
+\end_inset
+
+first element = EEE
+\end_layout
+
+\begin_layout LyX-Code
+Copying ll to ll_copy2, ll_copy2 = {OOO RRR AAA GGG EEE}
+\begin_inset Newline newline
+\end_inset
+
+length of the list = 5
+\begin_inset Newline newline
+\end_inset
+
+first element = OOO
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+After removing 4 elements from ll, ll = {EEE}
+\begin_inset Newline newline
+\end_inset
+
+length of the list = 1
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+After removing all elements, ll_copy = {}
+\begin_inset Newline newline
+\end_inset
+
+length of the list = 0
+\begin_inset Newline newline
+\end_inset
+
+list is empty.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+The copy of ll, ll_copy2 = {OOO RRR AAA GGG EEE}
+\begin_inset Newline newline
+\end_inset
+
+length of the list = 5
+\begin_inset Newline newline
+\end_inset
+
+first element = OOO
+\end_layout
+
+\begin_layout Subparagraph
+linkedqueue
+\end_layout
+
+\begin_layout LyX-Code
+queue = {1 22 333 4444 55555 123456}
+\begin_inset Newline newline
+\end_inset
+
+size of queue = 6
+\begin_inset Newline newline
+\end_inset
+
+first of queue = 1
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+assigning queue to queue_copy, queue_copy = {1 22 333 4444 55555 123456}
+\begin_inset Newline newline
+\end_inset
+
+size of queue_copy = 6
+\begin_inset Newline newline
+\end_inset
+
+first of queue_copy = 1
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+copy constructor queue = {1 22 333 4444 55555 123456}
+\begin_inset Newline newline
+\end_inset
+
+size of queue_copy2 = 6
+\begin_inset Newline newline
+\end_inset
+
+first of queue_copy2 = 1
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+1
+\begin_inset Newline newline
+\end_inset
+
+22
+\begin_inset Newline newline
+\end_inset
+
+333
+\begin_inset Newline newline
+\end_inset
+
+4444
+\begin_inset Newline newline
+\end_inset
+
+55555
+\begin_inset Newline newline
+\end_inset
+
+123456
+\begin_inset Newline newline
+\end_inset
+
+dequeueing all elements from queue_copy2, queue_copy2 = {}
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+original queue:
+\begin_inset Newline newline
+\end_inset
+
+{1 22 333 4444 55555 123456}
+\end_layout
+
+\begin_layout Subparagraph
+linkedstack
+\end_layout
+
+\begin_layout LyX-Code
+stack = {ABCDE GGG NNNN AAA RR O}
+\begin_inset Newline newline
+\end_inset
+
+size of stack = 6
+\begin_inset Newline newline
+\end_inset
+
+top of stack = ABCDE
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+assigning stack to stack_copy, stack_copy = {ABCDE GGG NNNN AAA RR O}
+\begin_inset Newline newline
+\end_inset
+
+size of stack_copy = 6
+\begin_inset Newline newline
+\end_inset
+
+top of stack_copy = ABCDE
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+copy constructor stack = {ABCDE GGG NNNN AAA RR O}
+\begin_inset Newline newline
+\end_inset
+
+size of stack_copy2 = 6
+\begin_inset Newline newline
+\end_inset
+
+top of stack_copy2 = ABCDE
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+ABCDE
+\begin_inset Newline newline
+\end_inset
+
+GGG
+\begin_inset Newline newline
+\end_inset
+
+NNNN
+\begin_inset Newline newline
+\end_inset
+
+AAA
+\begin_inset Newline newline
+\end_inset
+
+RR
+\begin_inset Newline newline
+\end_inset
+
+O
+\begin_inset Newline newline
+\end_inset
+
+popping all elements from stack_copy2, stack_copy2 = {}
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+original stack:
+\begin_inset Newline newline
+\end_inset
+
+{ABCDE GGG NNNN AAA RR O}
+\end_layout
+
+\begin_layout Subparagraph
+reverse
+\end_layout
+
+\begin_layout LyX-Code
+Original list:
+\begin_inset Newline newline
+\end_inset
+
+WHAT
+\begin_inset Newline newline
+\end_inset
+
+LOLOLOL
+\begin_inset Newline newline
+\end_inset
+
+HAHAHAHAH
+\begin_inset Newline newline
+\end_inset
+
+THIS IS A STRING
+\begin_inset Newline newline
+\end_inset
+
+THIS IS TOO!!!
+\begin_inset Newline newline
+\end_inset
+
+HoW ExCiTiNg!!
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+Reversed list:
+\begin_inset Newline newline
+\end_inset
+
+HoW ExCiTiNg!!
+\begin_inset Newline newline
+\end_inset
+
+THIS IS TOO!!!
+\begin_inset Newline newline
+\end_inset
+
+THIS IS A STRING
+\begin_inset Newline newline
+\end_inset
+
+HAHAHAHAH
+\begin_inset Newline newline
+\end_inset
+
+LOLOLOL
+\begin_inset Newline newline
+\end_inset
+
+WHAT
+\end_layout
+
+\begin_layout Subparagraph
+input.txt
+\end_layout
+
+\begin_layout LyX-Code
+WHAT
+\begin_inset Newline newline
+\end_inset
+
+LOLOLOL
+\begin_inset Newline newline
+\end_inset
+
+HAHAHAHAH
+\begin_inset Newline newline
+\end_inset
+
+THIS IS A STRING
+\begin_inset Newline newline
+\end_inset
+
+THIS IS TOO!!!
+\begin_inset Newline newline
+\end_inset
+
+HoW ExCiTiNg!!
+\end_layout
+
+\begin_layout Standard
+NOTE: Screenshots are in a separate folder.
+\end_layout
+
+\end_body
+\end_document
